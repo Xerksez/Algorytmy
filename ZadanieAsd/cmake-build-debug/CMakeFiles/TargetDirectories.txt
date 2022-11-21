@@ -1,0 +1,3 @@
+C:/Users/Xerks/CLionProjects/ZadanieAsd/cmake-build-debug/CMakeFiles/ZadanieAsd.dir
+C:/Users/Xerks/CLionProjects/ZadanieAsd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xerks/CLionProjects/ZadanieAsd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
